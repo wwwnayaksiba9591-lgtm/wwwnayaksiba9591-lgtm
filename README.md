@@ -1,189 +1,66 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/siba-banner.webp" width="100%" alt="Siba Nayak — IT Engineer. Linux, Networking and Automation. Dark network mesh with an illuminated server rack.">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&text=Hey!%20I%20am%20Siba&fontColor=00e5ff&fontSize=42&desc=IT%20Engineer%20%7C%20Linux%20%7C%20Networking%20%7C%20Automation&descSize=16&descColor=b388ff&descAlignY=70" alt="Hey! I am Siba - IT Engineer">
-
-# Hi 👋, I'm Siba Nayak
-
-**Keeping IT infrastructure reliable, monitored and secure.**
-
-</div>
-
-<table>
-<tr>
-<td valign="top">
-
-- 🔭 Supporting 100+ corporate users, administering servers and Microsoft 365
-- 🌱 Currently strengthening my skills in **infrastructure automation, cloud operations and security monitoring**
-- 👯 Open to collaborating on **infrastructure monitoring, Linux administration, automation scripts and technical documentation**
-- 💬 Ask me about **IT troubleshooting, Linux and Windows administration, Microsoft 365, network monitoring and automated OS deployment**
-- 📫 Reach me: [nayaksiba9591@gmail.com](mailto:nayaksiba9591@gmail.com)
-- 🔗 [linkedin.com/in/siba-nayak-1bab13260](https://www.linkedin.com/in/siba-nayak-1bab13260)
-
-</td>
-<td valign="top" align="center">
-
-<img src="assets/coder.gif" width="280" alt="Animated developer typing code at a glowing neon workstation">
-
-</td>
-</tr>
-</table>
-
----
-
-## `> whoami`
-
-```bash
-siba@infra:~$ whoami
-IT Engineer
-
-siba@infra:~$ cat focus.txt
-Linux and Windows administration, network operations,
-infrastructure monitoring, Microsoft 365 and end-user support.
-
-siba@infra:~$ cat approach.txt
-Find the root cause, not just the symptom.
-```
-
-I work with Linux and Windows environments, network operations, infrastructure monitoring and end-user support. I enjoy troubleshooting complex issues, automating repetitive tasks, and making IT systems more reliable and secure.
-
----
-
-## `> ls ~/stack`
-
-| Category | Tools |
-|:--|:--|
-| **Operating Systems** | `Ubuntu` `CentOS` `Rocky Linux` `Windows Server` `Active Directory` |
-| **Monitoring & Security** | `Zabbix` `LibreNMS` `Wazuh` `Grafana` `Beszel` `Datadog` |
-| **Networking** | `LAN/WAN` `VLANs` `VPN` `DNS` `DHCP` `IPAM` |
-| **Virtualisation & Cloud** | `Proxmox` `VMware ESXi` `Hyper-V` `Microsoft Azure` `AWS` |
-| **Deployment & Automation** | `FOG Project` `PXE boot` `Linux shell scripting` `PowerShell` |
-| **Languages & Data** | `Python` `.NET` `NumPy` `Pandas` `PyTorch` `Apache Kafka` `CUDA` |
-| **Web & Databases** | `Apache` `Nginx` `MySQL` `MariaDB` `MongoDB` `Amazon DynamoDB` |
-| **DevOps & Collaboration** | `Git` `GitHub` `GitLab` `GitLab CI` `Jenkins` `Docker` `Selenium` `Jira` `Confluence` `Notion` |
-| **Other** | `Power BI` `Anaconda` `FFmpeg` `Adobe` |
-
----
-
-## `> ./contact.sh`
+<h1 align="center">Hi, I'm Siba 👋</h1>
 
 <p align="center">
-  <a href="mailto:nayaksiba9591@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/siba-nayak-1bab13260"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/_netmasterx.1337/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=b388ff" alt="Instagram"></a>
-  <a href="https://x.com/Shiva97855479"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=b388ff" alt="X"></a>
+  <strong>Keeping IT infrastructure reliable, monitored and secure.</strong><br>
+  IT Engineer · Linux &amp; Windows · Networking · Automation
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siba-nayak-1bab13260"><img src="./assets/linkedin.svg" height="34" alt="Connect on LinkedIn"></a>
+  <a href="mailto:nayaksiba9591@gmail.com"><img src="./assets/email.svg" height="34" alt="Email Siba"></a>
+  <a href="https://github.com/wwwnayaksiba9591-lgtm?tab=repositories"><img src="./assets/repositories.svg" height="34" alt="Explore my repositories"></a>
 </p>
 
 ---
 
-<!--
-USERNAME-DEPENDENT BLOCK (profile views + stats)
-Replace YOUR_GITHUB_USERNAME below, then delete the "<!--" line at the
-top of this block and the "-->" line at the bottom.
+## A little about me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
--->
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/siba-coding-still.webp">
+  <img align="right" src="./assets/siba-coding.gif" width="36%" alt="One illustrated IT engineer, upper body only, typing on a laptop in a four-second loop.">
+</picture>
 
-<p align="center"><sub>siba@infra:~$ echo "root cause > quick fix"</sub></p><div align="center">
+I'm an **IT Engineer** who enjoys solving everyday infrastructure problems and understanding how systems work.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&text=Hey!%20I%20am%20Siba&fontColor=00e5ff&fontSize=42&desc=IT%20Engineer%20%7C%20Linux%20%7C%20Networking%20%7C%20Automation&descSize=16&descColor=b388ff&descAlignY=70" alt="Hey! I am Siba - IT Engineer">
+- 🖥️ **My work:** supporting **100+ corporate users**, administering servers and Microsoft 365, and maintaining enterprise IT infrastructure.
+- 🐧 **My interests:** Linux and Windows administration, network operations, infrastructure monitoring and automated OS deployment.
+- 🛠️ **My approach:** investigate the root cause, verify the fix and document what matters.
+- 🌱 **My next step:** strengthening infrastructure automation, cloud operations and security monitoring skills.
 
-# Hi 👋, I'm Siba Nayak
+<br clear="right">
 
-**Keeping IT infrastructure reliable, monitored and secure.**
+> I enjoy finding the root cause—not just fixing the symptom.
 
-</div>
+## My infrastructure toolkit
 
-<table>
-<tr>
-<td valign="top">
+| Area | Tools & technologies |
+| :--- | :--- |
+| **Linux & Windows** | Ubuntu · CentOS · Rocky Linux · Windows Server |
+| **Identity & productivity** | Active Directory · Microsoft 365 |
+| **Networking** | LAN/WAN · VLANs · VPN · DNS · DHCP · IPAM |
+| **Monitoring & security** | Zabbix · LibreNMS · Wazuh · Grafana · Beszel |
+| **Virtualisation & cloud** | Proxmox · VMware ESXi · Hyper-V · Microsoft Azure |
+| **Deployment & scripting** | FOG Project · PXE boot · Bash / shell scripting · PowerShell · Python |
+| **Version control & documentation** | Git · GitHub · GitLab · Notion · Confluence |
 
-- 🔭 Supporting 100+ corporate users, administering servers and Microsoft 365
-- 🌱 Currently strengthening my skills in **infrastructure automation, cloud operations and security monitoring**
-- 👯 Open to collaborating on **infrastructure monitoring, Linux administration, automation scripts and technical documentation**
-- 💬 Ask me about **IT troubleshooting, Linux and Windows administration, Microsoft 365, network monitoring and automated OS deployment**
-- 📫 Reach me: [nayaksiba9591@gmail.com](mailto:nayaksiba9591@gmail.com)
-- 🔗 [linkedin.com/in/siba-nayak-1bab13260](https://www.linkedin.com/in/siba-nayak-1bab13260)
+## What I'm learning next
 
-</td>
-<td valign="top" align="center">
+- **Infrastructure automation:** turning repeatable support tasks into clear, reusable scripts.
+- **Cloud operations:** building stronger foundations in deployment, identity and day-to-day administration.
+- **Security monitoring:** improving visibility through logs, useful alerts and systematic troubleshooting.
 
-<img src="assets/coder.gif" width="280" alt="Animated developer typing code at a glowing neon workstation">
+## Let's build something useful
 
-</td>
-</tr>
-</table>
+I'm interested in collaborating on **Linux administration, infrastructure monitoring, automation scripts and technical documentation**.
 
----
+Ask me about IT troubleshooting, Linux and Windows environments, Microsoft 365, network monitoring or automated OS deployment.
 
-## `> whoami`
+**Explore:** [My repositories](https://github.com/wwwnayaksiba9591-lgtm?tab=repositories) · [GitHub contributions](https://github.com/wwwnayaksiba9591-lgtm?tab=overview)
 
-```bash
-siba@infra:~$ whoami
-IT Engineer
+**Connect:** [LinkedIn](https://www.linkedin.com/in/siba-nayak-1bab13260) · [Email](mailto:nayaksiba9591@gmail.com) · [Instagram](https://www.instagram.com/_netmasterx.1337/) · [X](https://x.com/Shiva97855479)
 
-siba@infra:~$ cat focus.txt
-Linux and Windows administration, network operations,
-infrastructure monitoring, Microsoft 365 and end-user support.
-
-siba@infra:~$ cat approach.txt
-Find the root cause, not just the symptom.
-```
-
-I work with Linux and Windows environments, network operations, infrastructure monitoring and end-user support. I enjoy troubleshooting complex issues, automating repetitive tasks, and making IT systems more reliable and secure.
-
----
-
-## `> ls ~/stack`
-
-| Category | Tools |
-|:--|:--|
-| **Operating Systems** | `Ubuntu` `CentOS` `Rocky Linux` `Windows Server` `Active Directory` |
-| **Monitoring & Security** | `Zabbix` `LibreNMS` `Wazuh` `Grafana` `Beszel` `Datadog` |
-| **Networking** | `LAN/WAN` `VLANs` `VPN` `DNS` `DHCP` `IPAM` |
-| **Virtualisation & Cloud** | `Proxmox` `VMware ESXi` `Hyper-V` `Microsoft Azure` `AWS` |
-| **Deployment & Automation** | `FOG Project` `PXE boot` `Linux shell scripting` `PowerShell` |
-| **Languages & Data** | `Python` `.NET` `NumPy` `Pandas` `PyTorch` `Apache Kafka` `CUDA` |
-| **Web & Databases** | `Apache` `Nginx` `MySQL` `MariaDB` `MongoDB` `Amazon DynamoDB` |
-| **DevOps & Collaboration** | `Git` `GitHub` `GitLab` `GitLab CI` `Jenkins` `Docker` `Selenium` `Jira` `Confluence` `Notion` |
-| **Other** | `Power BI` `Anaconda` `FFmpeg` `Adobe` |
-
----
-
-## `> ./contact.sh`
-
-<p align="center">
-  <a href="mailto:nayaksiba9591@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/siba-nayak-1bab13260"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/_netmasterx.1337/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=b388ff" alt="Instagram"></a>
-  <a href="https://x.com/Shiva97855479"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=b388ff" alt="X"></a>
-</p>
-
----
-
-<!--
-USERNAME-DEPENDENT BLOCK (profile views + stats)
-Replace YOUR_GITHUB_USERNAME below, then delete the "<!--" line at the
-top of this block and the "-->" line at the bottom.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
--->
-
-<p align="center"><sub>siba@infra:~$ echo "root cause > quick fix"</sub></p>
+**Discord:** `sibanayak0771`
