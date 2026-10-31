@@ -1,13 +1,32 @@
 <div align="center">
 
-# Hi, I'm Siba Nayak
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&text=Hey!%20I%20am%20Siba&fontColor=00e5ff&fontSize=42&desc=IT%20Engineer%20%7C%20Linux%20%7C%20Networking%20%7C%20Automation&descSize=16&descColor=b388ff&descAlignY=70" alt="Hey! I am Siba - IT Engineer">
+
+# Hi 👋, I'm Siba Nayak
+
+**Keeping IT infrastructure reliable, monitored and secure.**
+
+</div>
+
+<table>
+<tr>
+<td valign="top">
+
+- 🔭 Supporting 100+ corporate users, administering servers and Microsoft 365
+- 🌱 Currently strengthening my skills in **infrastructure automation, cloud operations and security monitoring**
+- 👯 Open to collaborating on **infrastructure monitoring, Linux administration, automation scripts and technical documentation**
+- 💬 Ask me about **IT troubleshooting, Linux and Windows administration, Microsoft 365, network monitoring and automated OS deployment**
+- 📫 Reach me: [nayaksiba9591@gmail.com](mailto:nayaksiba9591@gmail.com)
+- 🔗 [linkedin.com/in/siba-nayak-1bab13260](https://www.linkedin.com/in/siba-nayak-1bab13260)
+
+</td>
+<td valign="top" align="center">
 
 <img src="assets/coder.gif" width="280" alt="Animated developer typing code at a glowing neon workstation">
 
-**Linux · Networking · Automation**<br>
-Keeping IT infrastructure reliable, monitored and secure.
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -25,13 +44,7 @@ siba@infra:~$ cat approach.txt
 Find the root cause, not just the symptom.
 ```
 
-I support 100+ corporate users, administer servers and Microsoft 365, and maintain enterprise IT infrastructure. I enjoy troubleshooting complex issues, automating repetitive tasks, and making systems more reliable and secure.
-
-**Currently focused on:** infrastructure automation, cloud operations and security monitoring.
-
-**Open to collaborating on:** infrastructure monitoring, Linux administration, automation scripts and technical documentation.
-
-**Ask me about:** IT troubleshooting, Linux and Windows administration, Microsoft 365, network monitoring and automated OS deployment.
+I work with Linux and Windows environments, network operations, infrastructure monitoring and end-user support. I enjoy troubleshooting complex issues, automating repetitive tasks, and making IT systems more reliable and secure.
 
 ---
 
@@ -63,12 +76,13 @@ I support 100+ corporate users, administer servers and Microsoft 365, and mainta
 ---
 
 <!--
-## `> git stats`
+USERNAME-DEPENDENT BLOCK (profile views + stats)
+Replace YOUR_GITHUB_USERNAME below, then delete the "<!--" line at the
+top of this block and the "-->" line at the bottom.
 
-STATS BLOCK: needs your exact GitHub username.
-Replace YOUR_GITHUB_USERNAME below, then delete this comment wrapper
-(the "<!--" line at the top of this section and the "-->" line at the bottom).
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages">
@@ -80,14 +94,33 @@ Replace YOUR_GITHUB_USERNAME below, then delete this comment wrapper
 
 <p align="center"><sub>siba@infra:~$ echo "root cause > quick fix"</sub></p><div align="center">
 
-# Hi, I'm Siba Nayak
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&text=Hey!%20I%20am%20Siba&fontColor=00e5ff&fontSize=42&desc=IT%20Engineer%20%7C%20Linux%20%7C%20Networking%20%7C%20Automation&descSize=16&descColor=b388ff&descAlignY=70" alt="Hey! I am Siba - IT Engineer">
+
+# Hi 👋, I'm Siba Nayak
+
+**Keeping IT infrastructure reliable, monitored and secure.**
+
+</div>
+
+<table>
+<tr>
+<td valign="top">
+
+- 🔭 Supporting 100+ corporate users, administering servers and Microsoft 365
+- 🌱 Currently strengthening my skills in **infrastructure automation, cloud operations and security monitoring**
+- 👯 Open to collaborating on **infrastructure monitoring, Linux administration, automation scripts and technical documentation**
+- 💬 Ask me about **IT troubleshooting, Linux and Windows administration, Microsoft 365, network monitoring and automated OS deployment**
+- 📫 Reach me: [nayaksiba9591@gmail.com](mailto:nayaksiba9591@gmail.com)
+- 🔗 [linkedin.com/in/siba-nayak-1bab13260](https://www.linkedin.com/in/siba-nayak-1bab13260)
+
+</td>
+<td valign="top" align="center">
 
 <img src="assets/coder.gif" width="280" alt="Animated developer typing code at a glowing neon workstation">
 
-**Linux · Networking · Automation**<br>
-Keeping IT infrastructure reliable, monitored and secure.
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,13 +138,7 @@ siba@infra:~$ cat approach.txt
 Find the root cause, not just the symptom.
 ```
 
-I support 100+ corporate users, administer servers and Microsoft 365, and maintain enterprise IT infrastructure. I enjoy troubleshooting complex issues, automating repetitive tasks, and making systems more reliable and secure.
-
-**Currently focused on:** infrastructure automation, cloud operations and security monitoring.
-
-**Open to collaborating on:** infrastructure monitoring, Linux administration, automation scripts and technical documentation.
-
-**Ask me about:** IT troubleshooting, Linux and Windows administration, Microsoft 365, network monitoring and automated OS deployment.
+I work with Linux and Windows environments, network operations, infrastructure monitoring and end-user support. I enjoy troubleshooting complex issues, automating repetitive tasks, and making IT systems more reliable and secure.
 
 ---
 
@@ -143,12 +170,13 @@ I support 100+ corporate users, administer servers and Microsoft 365, and mainta
 ---
 
 <!--
-## `> git stats`
+USERNAME-DEPENDENT BLOCK (profile views + stats)
+Replace YOUR_GITHUB_USERNAME below, then delete the "<!--" line at the
+top of this block and the "-->" line at the bottom.
 
-STATS BLOCK: needs your exact GitHub username.
-Replace YOUR_GITHUB_USERNAME below, then delete this comment wrapper
-(the "<!--" line at the top of this section and the "-->" line at the bottom).
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages">
